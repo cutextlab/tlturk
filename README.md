@@ -1,4 +1,4 @@
-# `tlturk`: TextLab's Custom MTurk API
+# `tlturk`: Custom MTurk API for TextLab Projects
 
 ## Basic Usage
 
